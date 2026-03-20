@@ -4,7 +4,7 @@ export const translations = {
         'coming-soon': 'Em breve',
         'website-under-development': 'Site está em desenvolvimento',
         'cci': 'Câmara de Comércio e Indústria',
-        'in-production': 'Em produção',
+        'in-construction': 'Em construção',
         'building-something-remarkable': 'A construir algo grande',
         'language': 'Idioma',
     }, 
@@ -13,7 +13,7 @@ export const translations = {
         'coming-soon': 'Coming Soon',
         'website-under-development': 'Website is under development',
         'cci': 'Chamber of Commerce and Industry',
-        'in-production': 'In Production',
+        'in-construction': 'In construction',
         'building-something-remarkable': 'Building something remarkable',
         'language': 'Language',
     }
